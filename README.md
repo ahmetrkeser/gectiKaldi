@@ -1,0 +1,2 @@
+# gectiKaldi
+www.patika.dev
